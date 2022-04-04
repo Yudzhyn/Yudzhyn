@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yudzhyn
-- 👀 I’m interested in electronics, C, Python, Linux.
-- 🌱 I’m currently learning Python, Linux, C, Arduino, Raspberry Pi
+- 👀 I’m interested in electronics, C, Python, Linux, HTML/CSS/JS.
+- 🌱 I’m currently learning Raspberry Pi, Vue, Flask, Dart, Flutter.
 - 📫 How to reach me Snya14@gmail.com.
