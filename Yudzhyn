@@ -1,0 +1,13 @@
+#!/bin/bash
+
+apt update
+apt install apache2 -y
+
+echo "<html>
+<head>
+  <title> Global Logic Test </title>
+</head>
+<body>
+  <p> Yurii Senchuk </p>
+</body>
+</html>" > /var/www/html/index.html
